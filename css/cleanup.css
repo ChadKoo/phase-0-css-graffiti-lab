@@ -1,7 +1,5 @@
 /* write your override styles here */
 
-element.style {
-}
 body #wall {
     display: none;
 }
